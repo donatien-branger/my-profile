@@ -1,0 +1,110 @@
+body  
+{
+	padding:5 %;
+	background-color:white;
+	border-radius:;
+	background:url(fondecran2.jpg); 
+	background-size:cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	
+}
+header 
+{
+	border-radius:15px;
+	background-color:#f3f7fae6;
+	padding:2%;
+	margin-bottom:50px;
+	margin-left:30px;
+	margin-right:30px;
+	margin-top:40px;
+}
+
+header p a
+{
+	padding:1%;
+	margin:1%;
+	margin-bottom:2%;
+	list-style:none;
+	background-color:#ffcb00;
+	border-radius: 20px;
+	color:white
+}
+header p a:hover
+{
+	background-color:#ffe100;
+	color:black;
+}
+
+
+article
+{
+	border-radius:10px;
+	background-color:#f3f7fae6;
+	padding:10px 20px;
+	opacity: 2;
+	margin-bottom:50px;
+	margin-left:50px;
+	margin-right:50px;
+	margin-top:50px;
+}
+article center a strong
+{
+	color:black;
+}
+td center a
+{
+	padding:1%;
+	margin:1%;
+	margin-bottom:2%;
+	list-style:none;
+	background-color:#ffcb00;
+	border-radius: 20px;
+	color:white
+}
+td center a:hover
+{
+	background-color:#ffe100;
+	color:black;
+}
+
+footer 
+{
+	border-radius:15px;
+	background-color:#626262db;
+	padding:2%;
+	margin-bottom:50px;
+	margin-top:50px;
+	margin-left:30px;
+	margin-right:30px;
+	color:white;
+}
+
+footer nav ul a img
+{
+	margin:1%;
+	border-radius:200px;
+	transition: background-color 0.25s;
+}
+
+footer nav ul a img:hover
+{
+	 background-color:white;
+	 border-radius:200px;
+}
+footer center a strong
+{
+	list-style:none;
+	color:white
+}
+
+
+table
+{
+	width:95%;
+}
+
+th, td {
+	border : 2px solid green;
+	padding : 7px;
+	}
